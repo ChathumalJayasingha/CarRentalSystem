@@ -5,7 +5,7 @@ Not SpringBoot
 MySQL Database
 
 Customer ->
-      * Register
+* Register
       * Login
       * Rent car
       * Update your detail
